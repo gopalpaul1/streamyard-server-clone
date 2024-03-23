@@ -1,1 +1,1 @@
-#StreamYard Server Clone
+StreamYard Server Clone
